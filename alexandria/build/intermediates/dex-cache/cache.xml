@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vidya\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\classes-a901fd5fd0eaf37492e3ca840e57b06c3b7118b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vidya\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-5b158f3f125cac573430f3c7802ca5ba6b0146c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vidya\alexandria\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\classes-69112de7de95874678a82db281c62b07c752e9dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vidya\alexandria\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\classes-3a9f6d363d58624b5d4c5a92494d7fbd62d9d9bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vidya\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\classes-7af9b482bdb5d29e081d31b66ee1488e56258051.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vidya\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-85c4b13caa93d5eac4cf25be84881ffed98113b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vidya\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\classes-6dd3676a13b82e146d006eaa9641da0274a998be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vidya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Vidya\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-5d2026f8af429b092e72a35a268990df731e57bb.jar" />
+    </item>
+
+</items>
