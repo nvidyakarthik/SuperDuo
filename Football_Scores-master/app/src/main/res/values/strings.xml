@@ -74,6 +74,7 @@
     <string name="cd_home_score">Widget home team score</string>
     <string name="cd_game_time">Widget game time</string>
     <string name="cd_score">Widget score</string>
+    <string name="cd_share_button">Share button</string>
     <string name="cd_widget_empty_textview">widget empty</string>
 
     <!-- Leagues added -->
